@@ -102,9 +102,6 @@ This project demonstrates how different machine learning models behave on the sa
 ML-Loan-Project/
 │── notebook.ipynb
 │── README.md
-```
-
-
 
 ## Author
 
