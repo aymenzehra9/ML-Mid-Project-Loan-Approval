@@ -106,4 +106,3 @@ ML-Loan-Project/
 ## Author
 
 AYMEN  ZEHRA
-ML Midterm Project Submission
